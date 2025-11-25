@@ -251,3 +251,12 @@ document.getElementById("loginBtn")?.addEventListener("click", function () {
     }
   }
 })();
+
+---
+
+## 📄 License
+
+This project is provided for personal/portfolio use.  
+Commercial distribution requires permission.
+
+---
